@@ -4,7 +4,7 @@ import {
   useBudgets,
 } from "../contexts/BudgetsContext";
 
-export default function UncategorizedBudgetCard() {
+export default function TotalBudgetCard() {
   const { expenses, budgets} = useBudgets();
   const amount = expenses.reduce(
     (total, expense) => total + expense.amount,
