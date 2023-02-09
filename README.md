@@ -1,5 +1,5 @@
 # Budget-App
-Link: https://budgets-application.herokuapp.com/  
+Link: https://budget-apps.netlify.app/  
 I want to learn more about frontend framework so I begin with REACT
 
 # Details
